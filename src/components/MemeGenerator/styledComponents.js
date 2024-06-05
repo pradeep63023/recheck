@@ -21,7 +21,7 @@ padding:25px;
 `
 export const Heading = styled.h1`
 color:#35469c;
-font-family:"Roboto;
+font-family:"Roboto";
 text-align:center;
 font-size:24px;
 @media screen and (min-width:768px) {
@@ -60,7 +60,7 @@ padding:25px;
 
 export const TextContent = styled.p`
 color:#ffffff;
-font-family:"Open Sans;
+font-family:"Open Sans";
 text-align:center;
 font-size:24px;
 }
@@ -77,7 +77,7 @@ align-items:center;
 
 export const CustomLabel = styled.label`
 color:#ffffff;
-font-family:"Open Sans;
+font-family:"Open Sans";
 text-align:center;
 font-size:24px;
 
@@ -86,7 +86,7 @@ font-size:24px;
 export const CustomInput = styled.input`
 color:#5a7184;
 background-color:#ffffff;
-font-family:"Open Sans;
+font-family:"Open Sans";
 text-align:center;
 font-size:24px;
 height:48px;
@@ -96,7 +96,7 @@ outline:none;
 export const CustomSelect = styled.select`
 color:#1e293b;
 background-color:#ffffff;
-font-family:"Open Sans;
+font-family:"Open Sans";
 text-align:center;
 font-size:24px;
 height:48px;
@@ -114,7 +114,7 @@ border:1px solid #d7dfe9;
 export const GenerateButton = styled.button`
 color:#5a7184;
 background-color:#ffffff;
-font-family:"Open Sans;
+font-family:"Open Sans";
 text-align:center;
 font-size:24px;
 height:48px;
