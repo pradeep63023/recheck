@@ -83,7 +83,7 @@ font-size:24px;
 
 `
 
-export const CustomInput = styled.input`
+export const CustomInput = styled.div`
 color:#5a7184;
 background-color:#ffffff;
 font-family:"Open Sans";
